@@ -1,3 +1,5 @@
 .vs/
-Shoot/bin/
-Shoot/bin/
+
+bin/
+Properties/
+obj/
